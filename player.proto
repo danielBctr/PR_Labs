@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+package protoblog;
+
+enum Class {
+  Berserk = 0;
+  Tank = 1;
+  Paladin = 3;
+  Mage = 4;
+}
+
+message PlayersList {
+  message Player {
+    string nickname = 1;
+    string email = 2;
+    string date_of_birth = 3;
+    int32 xp = 4;
+    Class cls = 5;
+  }
+
+  repeated Player player = 1;
+}
