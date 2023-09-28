@@ -1,0 +1,132 @@
+[
+    {
+        "Caracteristici": {
+            "Balcon": "1",
+            "Suprafață totală": "70   m²",
+            "Starea apartamentului": "La alb",
+            "Bloc sanitar": "1",
+            "Nivelul": "3",
+            "Tipul clădirii": "Cărămidă",
+            "Loc de parcat": "Subterană",
+            "Număr de nivele": "10",
+            "Numărul de camere": "Apartament cu 2 camere",
+            "Autorul anunțului": "Dezvoltator imobiliar",
+            "Fond locativ": "Construcţii noi",
+            "Înălțimea tavanului": "275   cm"
+        },
+        "Adăugător": {
+            "Încălzire autonomă": null,
+            "Geamuri termopan": null,
+            "Ușă blindată": null,
+            "Sistem \"casă inteligentă\"": null,
+            "Interfon": null,
+            "Internet": null,
+            "Sistem de alarmă": null,
+            "Supraveghere video": null,
+            "Ascensor": null,
+            "Teren de joacă": null
+        },
+        "Preț": {
+            "Euro": "73 500"
+        },
+        "Regiunea": "Moldova ,  Chișinău mun. ,  Chișinău ,  Buiucani ,  str. Vasile Lupu 28 intersecție cu str. Belinski .",
+        "Contacte": "tel:+37360875559"
+    },
+    {
+        "Caracteristici": {
+            "Suprafață totală": "51   m²",
+            "Starea apartamentului": "La alb",
+            "Bloc sanitar": "1",
+            "Nivelul": "4",
+            "Tipul clădirii": "Cărămidă",
+            "Loc de parcat": "Deschis",
+            "Număr de nivele": "9",
+            "Numărul de camere": "Apartament cu 2 camere",
+            "Autorul anunțului": "Dezvoltator imobiliar",
+            "Fond locativ": "Construcţii noi"
+        },
+        "Adăugător": {
+            "Decomandat": null,
+            "Încălzire autonomă": null,
+            "Geamuri termopan": null,
+            "Ușă blindată": null,
+            "Interfon": null,
+            "Sistem de alarmă": null,
+            "Ascensor": null,
+            "Teren de joacă": null
+        },
+        "Preț": {
+            "Euro": "41 391"
+        },
+        "Regiunea": "Moldova ,  Chișinău mun. ,  Chișinău ,  Telecentru ,  str. Ialoveni 136",
+        "Contacte": "tel:+37368444466"
+    },
+    {
+        "Caracteristici": {
+            "Balcon": "1",
+            "Suprafață totală": "45   m²",
+            "Starea apartamentului": "La alb",
+            "Bloc sanitar": "1",
+            "Nivelul": "2",
+            "Tipul clădirii": "Cărămidă",
+            "Loc de parcat": "Deschis",
+            "Număr de nivele": "7",
+            "Numărul de camere": "Apartament cu 2 camere",
+            "Suprafață locativă": "45   m²",
+            "Autorul anunțului": "Persoană fizică",
+            "Dezvoltator": "Eurovalcons",
+            "Fond locativ": "Construcţii noi",
+            "Planul": "Individuală",
+            "Suprafața bucătăriei": "14   m²",
+            "Înălțimea tavanului": "280   cm"
+        },
+        "Adăugător": {
+            "Încălzire autonomă": null,
+            "Geamuri termopan": null,
+            "Ascensor": null
+        },
+        "Preț": {
+            "Euro": "39 200"
+        },
+        "Regiunea": "Moldova ,  Chișinău mun. ,  Chișinău ,  Botanica ,  str-la 4 Valea Apelor 2/B",
+        "Contacte": "tel:+37368368800"
+    },
+    {
+        "Caracteristici": {
+            "Suprafață totală": "66   m²",
+            "Nivelul": "3",
+            "Număr de nivele": "7",
+            "Numărul de camere": "Apartament cu 2 camere",
+            "Autorul anunțului": "Dezvoltator imobiliar",
+            "Fond locativ": "Construcţii noi"
+        },
+        "Preț": {
+            "Euro": "61 380"
+        },
+        "Regiunea": "Moldova ,  Chișinău mun. ,  Chișinău ,  Ciocana ,  str. Nicolae Milescu Spătarul 63",
+        "Contacte": "tel:+37367333444"
+    },
+    {
+        "Caracteristici": {
+            "Balcon": "1",
+            "Suprafață totală": "76   m²",
+            "Starea apartamentului": "La alb",
+            "Bloc sanitar": "2",
+            "Nivelul": "4",
+            "Tipul clădirii": "Monolit",
+            "Loc de parcat": "Garaj",
+            "Număr de nivele": "7",
+            "Numărul de camere": "Apartament cu 2 camere",
+            "Suprafață locativă": "76   m²",
+            "Autorul anunțului": "Dezvoltator imobiliar",
+            "Dezvoltator": "Boiar House",
+            "Fond locativ": "Construcţii noi",
+            "Înălțimea tavanului": "270   cm"
+        },
+        "Preț": {
+            "Euro": "49 400"
+        },
+        "Regiunea": "Moldova ,  Chișinău mun. ,  Cricova ,  Centru ,  str. Calea Basarabiei 2A",
+        "Contacte": "tel:+37378600107"
+    }
+]
